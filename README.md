@@ -1,2 +1,3 @@
 # goit-markup-hw-01
-home work 1
+first-home-work
+https://elenmandrovskaya.github.io/goit-markup-hw-01/
